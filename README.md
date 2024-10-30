@@ -11,5 +11,5 @@
 
 ### Basic
 
-- [x] Code Structure [바로가기](https://github.com/simseonbeom/core_js/blob/main/client/chapter/core/01.codeStructure.js)
-- [x] Variable [바로가기](https://github.com/simseonbeom/core_js/blob/main/client/chapter/core/02.variables.js)
+- [x] Code Structure [바로가기](https://github.com/workerKwon/core_js/blob/01.core/client/chapter/core/01.codeStructure.js)
+- [x] Variable [바로가기](https://github.com/workerKwon/core_js/blob/01.core/client/chapter/core/02.variable.js)
